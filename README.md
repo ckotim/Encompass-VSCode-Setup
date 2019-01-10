@@ -3,7 +3,7 @@
 # ECP VSCode Configuration Instructions
 ## Prerequisites
 - Install VS Build Tools
-    1. Run the `vs_buildtools.exe` installer located in this directory. 
+    1. Run the `vs_buildtools.exe` installer located in /.vscode/Setup/ directory. 
     2. Select __Web development build tools__ on the Workload tab.
     3. Select __.NET Framework 4.7.2 SDK__ and __.NET Framework 4.7.2 Targeting Pack__ on the Individual Components tab.
     4. Install selected components.
